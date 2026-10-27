@@ -1,0 +1,2264 @@
+2026-10-27 14:21:10,669 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:21:10,669 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:21:10,669 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:21:10,670 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:22:28,581 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:22:28,582 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:22:28,582 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:22:28,583 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:22:35,392 | Gaia_DR4 | INFO | Retrieved 5000 source IDs. Fetching epoch photometry...
+2026-10-27 14:26:47,898 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:26:47,898 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:26:47,898 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:26:47,899 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:26:55,692 | Gaia_DR4 | INFO | Retrieved 5000 source IDs. Fetching epoch photometry...
+2026-10-27 14:27:32,158 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:27:32,158 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:27:32,158 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:27:32,159 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:27:37,493 | Gaia_DR4 | INFO | Retrieved 5000 source IDs. Fetching epoch photometry...
+2026-10-27 14:27:38,303 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306335968380685696
+2306748594478127744
+2306963823879949312
+                ...
+2345370525247636224
+2346092315976267136
+2350160715157098624
+2352381866084568576
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-8f2bb674-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='413E28FCD87C0D48874C6A3221A3DA6F', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:38,890 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2355233964889124352
+2356236375894026240
+2357963919115758848
+                ...
+2399607539764393088
+2400057931510241920
+2400858131161915520
+2402064707734360704
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-8f8bfee5-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='313DB55C44A6A2A013D44437F8A1666F', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:39,525 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2402410263623589760
+2402833064499026304
+2402833609959462400
+                ...
+2440858024878447104
+2441224776430558720
+2442543571908571136
+2443032476625659008
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-8fe4a636-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='4FCA540F989AEE144474DE5B9900DFD2', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:40,141 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305968770151958656
+2306752481424244608
+2308815298381358464
+                ...
+2345117946811245312
+2345984705571222528
+2346098986060415488
+2346904137809817472
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9044a087-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='9E346D868BCBD0539F2663FFDA3E8CA6', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:40,813 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2348780660561731968
+2348826462092967680
+2350208994886270720
+                ...
+2390809866194855552
+2391531248901724928
+2391948032528180608
+2393063796312299648
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-90a31438-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='C9CC4749128DEC4114E96BA739D56D36', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:41,786 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2395206950633147136
+2396439022131616384
+2397919278315081728
+                ...
+2437751286054588032
+2438046500631194112
+2439020496134868352
+2441054695725727232
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-910b4be9-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='AC92A8CE6D526B75E0EE363ED38BD975', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:42,431 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2308080652815927808
+2308498437169796480
+2308632715027125760
+2309084025895947392
+2309165497130691968
+2311197527762273408
+                ...
+2349898378554392320
+2350792831263944192
+2353473646770779136
+2353803397180059008
+2354614634898345472
+2354931324311218816
+2355131779024919680
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-919e8b3a-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='66031DF44CF4371CB67AE824D3CC168F', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:43,058 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2355132638018261632
+2355311416032774016
+2356192365364917504
+2356370245729513600
+2356840042137259136
+2356914912007435520
+2357746211517459328
+2357907500424164480
+2360689466706381056
+2362575507104664576
+2363388802112524928
+2363605646421253376
+2363980098849235584
+2364216429426132096
+2366337318636249088
+                ...
+2387658395286612096
+2388576002164067328
+2388637093778763264
+2391142747635054336
+2391576122719675776
+2396148716702329984
+2396198984998877312
+2396776920093629952
+2397773245132048128
+2397953942995834368
+2398799162495191808
+2399421000744987264
+2399520437827998976
+2400081291837081856
+2400086651956696192
+2400743953751320576
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-91ff6feb-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='B544DC96DF89D235F30E20CEDC628845', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:43,692 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2401265087903251712
+2401611060404427008
+2401701559659491072
+2403628350708397824
+2404859086472215936
+2405165227445372032
+2406665304903241472
+2407808766931790080
+2408310900148469632
+2409467616445047168
+2409524206934188416
+2409708310707575040
+2411703786873173248
+2411752058010108800
+2416440998362104832
+                ...
+2431495339770705408
+2431509869644454912
+2433091383977422848
+2434381145476704256
+2434650731983847808
+2435619848404421760
+2435684616511231360
+2436920463285733760
+2438279562736450048
+2438335019354410112
+2438661196350552576
+2439028982989987456
+2439175836511785472
+2440072110287410048
+2440250922661250432
+2440525727553652352
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9260549c-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='40E875D21A694374D9E43685A9986BA7', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:44,333 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306643831636035584
+2307159262071309568
+2307424725410056576
+2307791996653614208
+2307855978781968256
+2310790811538763008
+2311595447892300800
+2312181423166039296
+2312588586065533824
+2314252078439030528
+2315841315121688832
+2316088464720219136
+2317860533868272000
+2317874964956626432
+2320773797298647808
+2320998196455099008
+2321068255961528704
+2323779862089599232
+2324065318500532352
+2326385494194188800
+2326931509091312640
+                ...
+2338084607150276736
+2340910352034153728
+2341527143697456256
+2341648987625739392
+2342907687922823680
+2342907859719488768
+2344100073921736064
+2345909212930195200
+2346542948240256512
+2350028361445325312
+2350448894578226944
+2352294562284893312
+2352793255231425408
+2353047001899314816
+2355671536154748800
+2356266097067790848
+2357899215432521088
+2358020574028249600
+2358089740181442176
+2358095581336958848
+2359902319459917184
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-92c09d0d-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='B166547C03FDDD286C1B56BE4B8A5106', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:44,965 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2360850923116694016
+2362698514968833664
+2362787510986309248
+2363964705686870656
+2364055827712911360
+2364415093137495168
+2364896129474120320
+2366540934445766016
+2366600613016236416
+2367085772521635584
+2368935425956948480
+2369695635168366976
+2372663874181758208
+2373681712712072960
+2375546617576135808
+2376971825164007552
+2377162830949594368
+2378428437552996736
+2379050829854174592
+2379283312138706816
+2379439026177945472
+                ...
+2387220098168697472
+2387925370453157248
+2389270893512667520
+2389467057554344448
+2390502483975154304
+2390518976649620480
+2390654869414863488
+2390905317548013696
+2390999158288560256
+2391630995221890688
+2391712084204253824
+2391826055457050752
+2392823797834648448
+2393691857969526144
+2394409946436977024
+2395441936883263872
+2395502105080710144
+2395797800693719168
+2396071716527949184
+2396657069031380480
+2397352823668477568
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9322ba3e-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='F176B5A25A5A73D9F1B9CC3BD36D5E85', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:45,595 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2397389756092096896
+2398409209529482624
+2398675879754223616
+2398785070707119360
+2401833226177346816
+2403173432067344000
+2403784107697443840
+2403994423656105856
+2404649973104330368
+2404752051592055424
+2407909402309971200
+2410671929570251264
+2411154439080768256
+2411338542854297088
+2411958319519471872
+2412441868412421376
+2413046870391116160
+2413098856675263744
+2413354737941996032
+2413456511486945024
+2413506225733196672
+                ...
+2420407207385380096
+2420805475409292672
+2422297680190842368
+2425222316696390272
+2426537332603378048
+2428463088563975040
+2428969349245033856
+2430890913317554944
+2433524346745082880
+2434154607426503168
+2434446566418470912
+2434591152197617920
+2435082977492630400
+2435466427877065856
+2436156886820080000
+2436376411188374656
+2436651705707332480
+2438155803254291968
+2439501051435760768
+2440327854115379328
+2440362797969421568
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9383c5ff-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='904921297D514CD06D6E1990E5CCD852', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:46,430 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305916852587230720
+2307688745640433664
+2308489911659344512
+2308536984500532992
+2309382650676803968
+2309403605822303616
+2309418998985174912
+2311622454646359552
+2312140809955086592
+2314242011035734144
+2314292279332734464
+2314637246810379904
+2315367597408969088
+2316544457103246080
+2319698195753748096
+                ...
+2332566604967376768
+2333865476092785664
+2334335070636978304
+2338137903400635520
+2338441364314607360
+2338516371622919168
+2340531432839549696
+2341832949664861312
+2342902499602285056
+2343993726235966080
+2344144157464979200
+2344652922112167808
+2346487590405919616
+2347814705236328960
+2348001274319967232
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-93e260c0-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='2EABCDDA5BDDF5DCB1AB82CE80128F04', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:47,113 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2348669781685468672
+2349543618551344384
+2349556774035698944
+2349899959102370432
+2351943367103268736
+2353086309440209792
+2353642804058476032
+2353876037962451712
+2355422569786636416
+2356956899607339776
+2357314481404597504
+2358384654111734272
+2358472134005572864
+2359467054589936128
+2359799141461211136
+                ...
+2378835840970435456
+2379209026384334208
+2379437995385786752
+2380046712510289280
+2380961544839569152
+2381441000628722048
+2381603900148662528
+2382202584229731712
+2383390224291443840
+2383649369733390080
+2384625216367670400
+2385232112425949056
+2387144163146736512
+2388159669509618944
+2388969455528417152
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9464b021-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='A7CB2106B03690E1A67DA985AC96832E', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:47,692 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2389975096351030400
+2390313475349571456
+2390968883064052864
+2391305093103690112
+2391698512107560576
+2391817259363872640
+2394137435056643072
+2394385104346081408
+2394934374828726784
+2395770622140913280
+2396684389318167680
+2396839484882453888
+2396940365073862784
+2397552728626494592
+2398094753498979840
+                ...
+2411485082842852736
+2411964538632522368
+2412596379861046784
+2414982599266313344
+2416872522316319360
+2419564637881313536
+2422034042214475776
+2424637578373513856
+2425839005280749056
+2426485999154615680
+2427736796710656896
+2430016595414823040
+2431124701273224064
+2431127445756329088
+2431909026725107200
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-94c98c72-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='CC6D455DB3A3B55AC61994FC24A155E5', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:48,283 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305946054070131328
+2306716743000733824
+2306963961318902400
+2307378992598324992
+2309366639038717312
+2309863205978024192
+2310781813583060352
+2311192893492854656
+2311815556376137856
+2313064915118243456
+2313895046397495936
+2315365196522865792
+2318267872860500864
+2320642401364249088
+2321344787431426816
+                ...
+2341678399562200192
+2341690833491351680
+2342934591597738368
+2344844164120148736
+2345048295325715328
+2345989408559956608
+2346536930990187264
+2349736681625903360
+2350722428159702912
+2350740123425143808
+2352267413796313216
+2352407635888154112
+2353853223096134912
+2354462833574672256
+2355568113342481536
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-952233c3-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='3902FE04CA98DE3EEA13EA7E48A48A74', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:48,891 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2355652500860126080
+2357573592487749888
+2358683583835670144
+2358721001590647680
+2361183667118529792
+2361217782043609600
+2361626632865444864
+2361891232915128576
+2362096227409790336
+2362397489300763264
+2365267322023575808
+2365553740506756608
+2365611258708974208
+2366078585510422656
+2366997914670419968
+                ...
+2387186185107464576
+2388011437303252608
+2388117368376267904
+2389372563978939264
+2389481587428439680
+2391037327662285184
+2393003288812864896
+2393416915638234752
+2393494358193625472
+2393542049510134656
+2394571402847593472
+2394690936081940864
+2395641189006103424
+2396230772052140672
+2397164528006758656
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-957d7324-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='E08A2E69B68369BCE3E49F9E89EC35A2', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:49,486 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2399144748448882304
+2399196116257132416
+2399633897979223040
+2399812912216117248
+2401254642542860160
+2401699223199344256
+2401767672091709568
+2401942352706080512
+2402659272942940800
+2402848419006744832
+2403734591019526144
+2403743387112648320
+2404291356220183936
+2404467312440500608
+2404700374546478848
+                ...
+2432293031161346432
+2432488744231016576
+2432706211310304640
+2433606883132336000
+2434151927366883712
+2434494184720292992
+2435113763818102656
+2435151800048505856
+2435402656202910592
+2435897956126914560
+2435958772863800320
+2436793847649638400
+2440457420393404800
+2440480445713337984
+2440670523786148992
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-95d81645-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='B473EB6B84F1772A6A2783D2C5908D00', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:50,100 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306013880193551488
+2310636025213166336
+2310832769075109632
+2310975082816188416
+2311293223928952064
+2311510480555026048
+2311878400337815296
+2314089075840124928
+2314379243830674048
+2315550876549162624
+2316570845382307200
+2317788279632412288
+2320670232752442752
+2322191647607700736
+2324150977327861888
+                ...
+2345312762231569152
+2345874994926117888
+2346545383485887488
+2347595691968857216
+2349076527972462080
+2349197169309339904
+2350104330826425856
+2350445832266350464
+2351265728638726272
+2354427919784630656
+2354768429086419968
+2356348938396751232
+2358426641711908608
+2359040920819153024
+2359661565068684032
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-96348e26-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='9FB48F698E29F77D3FDA125AE23986D9', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:50,707 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2360017768180491520
+2361572374543675264
+2363749957322351104
+2364052494818364672
+2364755666863680896
+2364924132660952576
+2367901197832369280
+2369996218455844608
+2372048005936541568
+2372880954713803776
+2373196755069096448
+2374342308746300928
+2378959368525120256
+2378996541466764032
+2380300253019532032
+                ...
+2397415564550794240
+2398672783082242304
+2399080014701507328
+2399895787904906880
+2400154722893133056
+2401581025697233408
+2401649367217309312
+2402758705730054784
+2402853676047204608
+2404098941684579200
+2406581196559066368
+2407069379721628160
+2407330788611186944
+2407577182295090432
+2408054881442603008
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-96926597-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='ABC87839AF9740B991B6F15DD16C44A9', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:51,296 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2410067984153864064
+2411725635371902720
+2412911389942788992
+2413209151435235328
+2414432736078510336
+2414587359196657664
+2414993864965444480
+2415113677373476736
+2416085576932818688
+2416879428624044032
+2418246224656173312
+2418325767450766720
+2419052097959522560
+2421344231810744704
+2421414604850743936
+                ...
+2449983043675495424
+2452542565010926720
+2453652418920074624
+2454024917139286016
+2455030111285732480
+2456794273396738816
+2459253502951423488
+2460150158978567680
+2461040621662562048
+2463211641731325696
+2463361557565310720
+2466108790446519552
+2466630749231705088
+2467613845770952576
+2468681368482415488
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-96eeb668-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='64E04603467BC14B647F76A398BDB583', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:51,870 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306859645152800640
+2307733963055382272
+2308836498340087040
+2310129352216053760
+2310162509363502848
+2311531332620238976
+2311704441277160960
+2312057002257804032
+2312643729150065792
+2314374051214828800
+2314569768579663488
+2314593541222896128
+2315441543862431744
+2316693818886297984
+2316901351705929600
+                ...
+2333136736106908544
+2334166914077570816
+2334706499408963584
+2335690180062881024
+2339659966794851712
+2339794386387180032
+2341849506762636544
+2342366487680933248
+2342909126734284928
+2343749531575152128
+2343862334596374528
+2344002694127670656
+2344807094258193536
+2345343690291896576
+2346328676616292864
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-974736a9-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='6500A89B513D84E78DAC05E3FA1C9736', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:52,497 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2346875065175588736
+2348034328388364032
+2348534777977955840
+2349039561189678976
+2350698140120390272
+2352657263682817152
+2352720554320718336
+2353008931309117696
+2354318999413813504
+2355048662817791232
+2356010396190698368
+2356068013176195456
+2356446382614840320
+2357841151770090752
+2358575346363729536
+                ...
+2379788705234775040
+2380981194314718208
+2382197017952121344
+2383642154187968128
+2384272479293297280
+2385505169266719360
+2385702875201385600
+2386539569190708608
+2389622496715892608
+2393701409976810624
+2394023326365815552
+2399532639830345728
+2400090092225325568
+2400540376596651264
+2401195681231654016
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-97a13d8a-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='9B760A25AE97B259B3800C785EDFEE09', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:53,085 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2403487407061687296
+2403719300935369344
+2404428176698355712
+2404690380156651520
+2404817919210626816
+2405656301121604864
+2405683509739074048
+2406922904157055360
+2409309114972520704
+2409360345341691520
+2410224252244242176
+2410515313587358848
+2411132723725884672
+2412979392160049792
+2413510280182000640
+                ...
+2432381232610024064
+2432580209854852224
+2433719956736032384
+2435484329300782720
+2436864285113604480
+2438293547150032896
+2439142576285625856
+2439493938969854976
+2441311573425894016
+2441624831160565504
+2442173002130247296
+2442219937532496256
+2443209429278331264
+2444199268916833536
+2444638248934435712
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-97ff8a2b-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='2A695422E635CFF8E2CCB3B8645ED8CB', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:53,689 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306232133250944128
+2308174768434124032
+2309868149484412288
+2311476017737461888
+2313117275064513792
+2314170886377274880
+2316724295974272000
+2317017625060594432
+2317076307198384896
+2319192282965808384
+2320898725013326976
+2322144471686822912
+2322499755676886912
+2322634480210851840
+2324075488982859904
+                ...
+2350648623441990144
+2351704944878857984
+2353176336250258688
+2353440111665929856
+2353737465137513216
+2354680566940446080
+2355722427222832768
+2357066713331505536
+2357078155124285824
+2357305272994705536
+2358863938102122112
+2361094778475309696
+2363478897641606656
+2364724468221646080
+2365198843064863360
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-985b8cdc-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='AC84E8D7C089E808D1D9828380A0B755', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:54,265 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2366347519182634624
+2367578151866907776
+2368192465334201984
+2368914363437518720
+2369048641294880384
+2369061869794172544
+2370720964121000320
+2372151634907182208
+2372905247048973952
+2373004069952651648
+2373442702076514048
+2373636662799451392
+2374686666339798784
+2374866264692647552
+2375016485468471424
+                ...
+2392866811932013696
+2394014976948942592
+2394623178678310400
+2395104597267452288
+2399372141196913280
+2399392108500276736
+2399661828151341312
+2399823559439781120
+2400483025898071424
+2401418229256862336
+2402144014306144000
+2402183901667135616
+2402707788893291008
+2403544001845588992
+2404126399411229696
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-98b5459d-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='1ED6BAA492C428EA3C47419CCF4A7B50', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:54,892 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2406099881048437888
+2408647999245924224
+2414324709061086208
+2414372542112438784
+2414606531930731648
+2415971090284324736
+2416120284564324608
+2417076030751553664
+2417649254266098560
+2418400980918073984
+2418724954594952448
+2419278116318755072
+2420755619428859904
+2420996923575060096
+2421587052082180864
+                ...
+2440597337543447168
+2440949146904550528
+2441172004168174592
+2441340573045140480
+2441963957481917056
+2442471970509070080
+2442637855030587520
+2443019252421131776
+2446175194391885184
+2446804454344086144
+2447846623864444160
+2447905516455939456
+2447986394984091776
+2449043472335232768
+2450753801327284736
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-990e13fe-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='7D96530453607D3C3DBA3A1F9D6A085D', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:55,697 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306526768007871488
+2307009556691206400
+2307334363593600640
+2307424420467670656
+2308384633420626816
+2309382337144080768
+2309447246984991104
+2310123614139198208
+2310400661005258624
+2310744636346209536
+2311286313326561152
+2311482271209834112
+2313318863649626496
+2313554227856823296
+2313652982041172224
+                ...
+2326385154891806336
+2327044552630883200
+2328408359365679104
+2328567273155599360
+2328628291755571840
+2328815346171606272
+2328898191795835648
+2329501033405470848
+2329755364188784128
+2330324292736808960
+2330649645099220096
+2330875659163551104
+2332557877593638144
+2332806921272676992
+2334409661333390720
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-996d23ef-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='3188C20A32A37F46B729EBDC99B45B02', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:56,596 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2335617582231057792
+2338245926122217216
+2339281150679375744
+2339554344959170816
+2340802496815364864
+2341343014155361408
+2341945748390197120
+2342012062685119872
+2342565357552294016
+2346724397722981888
+2346898739035272064
+2347611188210377856
+2349243619380196480
+2349550658002229760
+2350984803417884416
+                ...
+2382914960390143360
+2383817418918467328
+2384723657017878272
+2384899956835691904
+2384943318824940800
+2385301557752633984
+2385933910082806144
+2386287059473255424
+2388284253625799552
+2388676989730262144
+2389165237317451392
+2389527148441567360
+2389849137845303040
+2391318085379907840
+2392074304566535552
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-99e90ab0-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='9E4A5EC185C2F15B637A2032BD68098A', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:57,222 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2394042224221579008
+2396530354611332736
+2396779286620059776
+2397421298331912960
+2397653913760486528
+2397830763333832448
+2398363755890835072
+2398577061146499200
+2398851831678901376
+2399398529476031360
+2399593383552126976
+2401156373690984448
+2401426990990144896
+2402507810920240384
+2402658272214720384
+                ...
+2420171568299985408
+2421668587741014272
+2422518789402866304
+2422653651376017280
+2423717184062344320
+2423928324654222336
+2426282074107510144
+2429906919130192640
+2429910389463807360
+2430183965996037120
+2430809652536515968
+2432460775403680640
+2433659281733138432
+2434182095216811392
+2434213637456559488
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9a73e591-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='ED00F42FEF180B4D58C6DA168F8683CC', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:57,854 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305932142670812288
+2306294427456457600
+2308561757872122880
+2309027542780851200
+2309322826077294080
+2310057299844729600
+2310527104842585344
+2311872730980989440
+2313802549981674368
+2313815327508939904
+2314863372544152320
+2319981697955034752
+2320701848007018112
+2321564827196238336
+2321859496312149376
+                ...
+2334819302430009088
+2334924992985350912
+2335912388786342016
+2338576054488589440
+2338865500924957952
+2339138660844361728
+2339346060520492416
+2342907653561101312
+2342907997158890240
+2343191774237543808
+2343818079253289344
+2344023142467524224
+2344484593753509376
+2344578224040930688
+2344710234155675520
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9ad2a762-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='4C9C42A980BF2018E5D1DA8C28AE1C82', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:58,480 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2345525968705115904
+2346104140021190272
+2348252031690838144
+2349750391161705728
+2350119831363999744
+2350197106416033792
+2350781561269757696
+2352865449337660416
+2352936191743416832
+2356293859736081792
+2356635326816099072
+2357059330283024000
+2357487139089838080
+2359678603202935936
+2362519951703327360
+                ...
+2386042937827430400
+2386313383328160000
+2386388867378356224
+2386716006447352704
+2386818505841728128
+2388574455975851904
+2388899808338624000
+2389319993579187840
+2389482652580333056
+2389700390242573056
+2389936544724411648
+2390162979695732864
+2391947280908660736
+2392496345232945152
+2393977524834187520
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9b311b13-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='2EFFCE80E9C81A253A7C6F903335722F', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:59,072 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2394420804114270464
+2394989663942698624
+2396307046376461312
+2399060914982089344
+2399072734732091264
+2401323606833137024
+2401402015756133248
+2401668917908437120
+2402440294034650880
+2403444835345331712
+2403463870640471424
+2403629999975839232
+2404228997590017280
+2404316992880024576
+2404400070432038144
+                ...
+2418735021998324096
+2418899609440728320
+2422776762319213184
+2423197630458063872
+2423392450176515072
+2423884722146132096
+2424276629321757824
+2424470834859083520
+2424665895093303808
+2425320924850349312
+2429355965021313920
+2429979315099203328
+2431764784543765120
+2432064985577805312
+2432457098911563008
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9b902b04-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='971D8C61D4E635411E3AE269CC8587B7', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:27:59,653 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306072188668679936
+2306411765962909568
+2307381195916546176
+2309175766397503744
+2310207009519906816
+2311987629945742464
+2312277557418721664
+2313155453028903680
+2313534883324056448
+2313640780041141376
+2316893277167415552
+2316982058435750272
+2318549068663565568
+2319644079165569536
+2319741798261738624
+                ...
+2338344199269209600
+2339508165470680320
+2340168559642538624
+2340369877645627648
+2340625922119768192
+2340886746893828864
+2342904595544145664
+2344967824818955776
+2345334615025796992
+2346295798642165376
+2347026321039727360
+2347343869446126848
+2347571330913885568
+2349618037449057024
+2351476250755731584
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9beb9175-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='0A93CB9AE1C6592C582108BDB9B21294', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:00,257 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2355317978742722048
+2355794440939109248
+2356857187646939264
+2357311015367023488
+2357673785484643456
+2358055041141532800
+2358257896741140608
+2359620676980010112
+2361519185668280576
+2361587527187445504
+2362406976883837184
+2363398049177340032
+2363687319518594432
+2365496428463458176
+2365666165570693888
+                ...
+2384245094581783296
+2384468742119299072
+2385219536761661952
+2386500128506031488
+2391194699559495296
+2391651130028613376
+2392692058302377856
+2394234604397092736
+2395642322877441792
+2398014828452585088
+2398549878298148480
+2398644573737052032
+2399856922745643776
+2400319267385058944
+2400912183326015232
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9c4486e6-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='124422458989C02DE7DC723250E34976', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:00,847 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2402220086766955008
+2402929198752264320
+2403159031041824000
+2403181128648754688
+2403812591920830208
+2405119597713362688
+2405870186198118528
+2406239519025964032
+2408227779645965568
+2409988132122117888
+2410073863964140032
+2411779236563305344
+2412138368844205056
+2413299311388998528
+2414655352822962944
+                ...
+2432985281105362176
+2433842586642305536
+2433860900382552576
+2434173711440620672
+2434716840120456448
+2434937390985633408
+2435405993392737024
+2436511994716056960
+2436970697222795264
+2437068454973555328
+2437306701104336768
+2437432977438323968
+2440295074925236480
+2440506417380352896
+2441759658773675008
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9ca03b77-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='485FEC4BABA1240848FE84029EFA2BE2', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:01,421 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306313497111644288
+2306727227016486912
+2307794539274976896
+2307928340390987392
+2308813305516499712
+2309075229802642816
+2310752191193165952
+2312428465389214080
+2314606529204030976
+2315033964349491840
+2317552430093025536
+2319229460203340928
+2320811416918057856
+2325651432742906240
+2327175841191154816
+                ...
+2341115861924305536
+2341281402848383488
+2342714684975364864
+2342906244811352704
+2342907859719019136
+2343254549479550976
+2344422810648448128
+2344944906873402624
+2346272738961865216
+2347194335864648576
+2347486496720120960
+2348133804126605696
+2349783960629988992
+2350152778057536256
+2352356027561107456
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9cf957f8-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='2D907E414E2F651328BA799AB6B8E049', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:02,001 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2352555382763108352
+2353230414185893888
+2353647202104979712
+2355232938390334976
+2355406278974887552
+2356258232982462208
+2357102516178833920
+2357282114531000960
+2357938595988162304
+2357961784515782400
+2358475913576785920
+2359080709395708032
+2359794258082641792
+2363902381417224704
+2368171716348407552
+                ...
+2384964037747277568
+2386306854977895424
+2386407043680011392
+2386945430714922240
+2388832154013626880
+2388948156785542400
+2389490250377821568
+2390596290355973504
+2391229055002786048
+2391740847600279936
+2392438453368707712
+2394184099876619392
+2396277982332661376
+2396445997158523904
+2396930405044376576
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9d51d839-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='46838BE899038882D145AB100B702383', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:02,574 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2397473495069763456
+2398927530477560960
+2400129601629093248
+2402173288803307648
+2402192839494400640
+2402329552597817728
+2402751146587632768
+2403016408063549824
+2403427002641465984
+2404022186324671104
+2405464844364039040
+2408084022795774208
+2408500561609089536
+2408556396183458304
+2409111202879276032
+                ...
+2430384833026480256
+2432643229909852160
+2432820320001470208
+2435218350566691456
+2436142494384859136
+2436854531243086208
+2437078346283580160
+2437916242863347072
+2438036300084284672
+2438106359590791040
+2438687417126375936
+2439272494751438592
+2439637665755719296
+2440110528770149760
+2440587888615655296
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9da91ffa-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='F139E5904BD785103341D11942707904', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:03,210 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306226983585563904
+2309086534155920000
+2309859044154287616
+2310904610993185024
+2311876686645768320
+2311942618688951936
+2312343047079350272
+2317446327220998400
+2317612009878878848
+2317727492959442560
+2318599852356969472
+2319399270325455872
+2321179414010689152
+2323746670582289152
+2328001020372475264
+                ...
+2346418286813559808
+2346889981597563904
+2347345724872014848
+2350800837083020032
+2352702030126000128
+2353144931449339008
+2356028744290930304
+2356197618108864128
+2357171239951778048
+2357855028808601856
+2358600051016087296
+2358807515115931776
+2362154875187526272
+2363692718293524608
+2363975425925016448
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9e01ee5b-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='33A21CDD1C128E67B420459736FA25C8', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:03,839 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2367122747895527296
+2370559030970273792
+2371036558318411904
+2373726822753149952
+2374106433438604160
+2374530879286165504
+2375152550032429824
+2377297967800903552
+2378170228414052224
+2381836408203363968
+2382116233912195968
+2382261957857678848
+2382464676019182464
+2383381187680175744
+2384637310995990784
+                ...
+2396384046549577856
+2398285514471022080
+2398405812210578688
+2400149598997019520
+2400474745201039744
+2400990970205783808
+2401289723835759488
+2401591058740864512
+2401737469881712384
+2402815884629811584
+2402892365112171392
+2403836192765357952
+2404582696736643328
+2404614823092008192
+2405519411923868672
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9e651cfc-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='68A418C15F392176508113CB1782652C', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:04,436 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2408201082129033344
+2408707510312885760
+2409525787482185600
+2410646258550638208
+2411319984300154112
+2413189600744101760
+2413399508681029120
+2413825290263901696
+2414136486414147200
+2414963422237860352
+2416273937018430464
+2417384168884750208
+2419018592919827584
+2419591094880014208
+2419653874417376512
+                ...
+2438760839592180096
+2439075063694634240
+2440588919407539584
+2441405577373943808
+2441606757937781504
+2442490456048366336
+2443525401432113792
+2444616808457670272
+2444779531883032576
+2445411785428241280
+2445477240730061696
+2445837335083584512
+2447645378876193792
+2449004272169707648
+2449297257659445632
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9ec2582d-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='56F7357F65E6C99CFDE0921353FF8C37', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:05,013 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2306219660666593664
+2306867032496555136
+2308440158758113408
+2309970236562768768
+2311356514567043072
+2311907365596745472
+2312192349562822528
+2313304707437277440
+2313371026027672192
+2314688786417974656
+2315330523251605632
+2316549916006184064
+2319832409187570688
+2322797375434999296
+2322850598670120704
+                ...
+2349917413849519104
+2351296755482523136
+2351839119657213568
+2352400248544261888
+2353682725778934144
+2353918815836691840
+2354783822250069120
+2355727924781010816
+2359627995604233984
+2360652255109363712
+2361099417039985920
+2362134847755735424
+2362537372090730112
+2365144657757560320
+2366497400657222144
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9f1d225e-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='D00EAF5F97DA4588AB439CFC4F0B4721', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:05,615 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2367996241164163072
+2369259541369392128
+2369750786844438016
+2370569923006771456
+2370762715498743040
+2370782090095706880
+2372616698262077440
+2372754888834239872
+2374547642543001600
+2374584510542380160
+2375539161512900736
+2375676978423521664
+2376686433177102592
+2376807830428211328
+2377832747064689152
+                ...
+2394474886342485120
+2394621288892491136
+2395118439946595200
+2395774161194004096
+2399349193187074688
+2400913381621202944
+2402902436810811520
+2403200949922632704
+2404228409179341696
+2404409038323916032
+2405501196967459456
+2405662348434998144
+2406558686635155072
+2406663002801136000
+2407918374497076736
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9f76db1f-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='7DB4AD6DE9997666CFD47C802D91C844', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:06,200 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2412551506042722816
+2414785717966247168
+2415508131465158656
+2416758031372344192
+2417524773229864320
+2418143450382747392
+2419549592611449088
+2420488055849927040
+2420582893023289216
+2422789402406285440
+2423034902737118464
+2423071736376757504
+2423582768765506688
+2423999518031916416
+2424290545015918848
+                ...
+2434917535353544320
+2435425471069281280
+2436906856829266688
+2437851169814008064
+2438616253812912768
+2438651747422580608
+2439251054274659328
+2440941828280278784
+2442674727325765248
+2443219363537586560
+2443327631074205440
+2444209198881172736
+2444401201099378944
+2444974081016959360
+2445312073467680384
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-9fd1f370-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='D0217CFAB249EAFE5B2BAE0877D94177', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:06,826 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2443493446875754496
+2444252492151592064
+2444257092060645888
+2444566913821894528
+2447593869333035520
+2447924998427551872
+2448922457336416256
+2451004696136940288
+2451524077942934784
+2453633181761681024
+2454481863004175744
+2455394526374681344
+2456736583395974016
+2457930996620872064
+2463025691122919168
+                ...
+2482937292651186432
+2483456640096308736
+2484493002820151040
+2484658410600672512
+2485406765702254848
+2487437078347072768
+2487725906307760256
+2487734569257273088
+2487743498493853952
+2488628747088008960
+2488747352610118912
+2489500380636109312
+2489831196197234304
+2495840920596406656
+2496982179306554240
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a029d771-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='39BE081D880D76180B6EB2410187F7BE', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:07,434 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2497806336285787264
+2500274941753122176
+2508544299986077952
+2509684669638519680
+2522123307244871936
+2522501745403507968
+2524597448926137984
+2525070273284966784
+2525198808770828544
+2526248262555165952
+2529027793591743744
+2530401697793377536
+2530632698314436736
+2531208056428825728
+2533437999153302272
+                ...
+2599333036676107904
+2599770676664293504
+2601304911996017920
+2602367310812002560
+2602540758771348608
+2602937063993085312
+2603046087443504640
+2603947583898903296
+2604077566789145216
+2604758130127156992
+2604881898199970176
+2604906598559140352
+2605431203041556352
+2605562835199364608
+2605688969798918272
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a08abc22-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='E5FA98A3345ABC366F80B295288C089B', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:08,031 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2605758518204521344
+2606183200275674240
+2606356961767763328
+2608252244936286464
+2608270794900072704
+2608554606338997248
+2608573813432020992
+2608730768717423744
+2609189574303846784
+2609589659097280512
+2610131512170947712
+2610343344253579008
+2610669035918545792
+2611471889860073600
+2612047037520751872
+                ...
+2618948117957446656
+2618979046016997376
+2619139089382906624
+2619663281551842304
+2619983827846035712
+2620466474795866880
+2621427447958738432
+2623286859559818752
+2624139706920986496
+2624337649078939264
+2625044978652881280
+2625122425502862464
+2625126548671901952
+2625409604196740096
+2625917514144638464
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a0e6e5e3-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='7A2A08D0C71C0FE1C5799F2F3577ECC3', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:08,637 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2627000734960364416
+2627198548269589504
+2627306540926776064
+2627363951754942336
+2627548910226299008
+2627693564725328384
+2627787676048385024
+2628250196781783808
+2629019129071493632
+2629146088304611712
+2629481851668625408
+2629547410049030400
+2630319305866625152
+2630987254885528576
+2634327811728730752
+                ...
+2651821728921317888
+2653120939348363648
+2653278070727189888
+2666137851351870080
+2666145547933329152
+2666349923951681792
+2666416027792894592
+2667249388887801728
+2667577872281801344
+2667584980451908352
+2667665695773111296
+2668026709248619264
+2668614707451613440
+2668843062272203520
+2669013142977424000
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a1413ae4-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='18CDB21B9CA167D5A89F1468CB1D0512', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:09,261 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2669075956874378880
+2669279190431448832
+2669921064704922368
+2670040091133153280
+2670423988195011712
+2670858948122768256
+2671322156050912896
+2671706263566221440
+2672023678829013888
+2672032337483140224
+2672079921425732736
+2672626344345292672
+2672728427128096768
+2672906032614800896
+2673023336762792832
+                ...
+2684877931830528896
+2685206273490660864
+2685365217345739520
+2685375014165383040
+2685415554361117824
+2685579832565951744
+2685653770428372736
+2685932015589136640
+2686068011433790720
+2686133058713474816
+2686259021514387968
+2686850180815302656
+2686932296293262592
+2687004760980072320
+2688755595812011392
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a19e27f5-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='B67CF17C2C453096F6D5115C3A40EF28', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:09,900 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2688815897149965824
+2689123107570566528
+2689256732592450816
+2689307623660949376
+2689540750190535936
+4953933923383227392
+4959804873095172096
+4960301336954861440
+4968699265033070720
+4969199680262213376
+4969639935886533888
+4970378459806605568
+4970613106757595008
+4980132949011632896
+4980523928474436224
+                ...
+5013415376438292608
+5014103082305547136
+5014126245065300864
+5015234484065646336
+5015772695009520768
+5016439961127908352
+5017612276744647680
+5017706250629513728
+5019300336331051648
+5021006847096778624
+5026107726352336768
+5026657688324580352
+5029027406464201984
+5029631828622039936
+5029843729424825344
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a1fdad16-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='588BF61BA4B6DE1CCB2336AA6ADDBFF1', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:10,673 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+5030696606850468992
+2441911975493554688
+2443824198012666880
+2444401475977286912
+2447043911656704768
+2448324773983499904
+2448960154266089216
+2453604006048985344
+2455938376609627136
+2458000128414638464
+2458062079023107840
+2459247008960853120
+2459653798198055552
+2460354599421851520
+2460601985242880768
+                ...
+2477920465906696064
+2478864323624722304
+2479625975944812032
+2480340662798019968
+2480489092572460288
+2481164158352107520
+2481273907651880448
+2481705534685403520
+2484053812348810752
+2487332246785255808
+2487799234284857088
+2489349403945560704
+2490401847027398912
+2490801141546858880
+2491878005811589632
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a25eb8d7-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='034E530BAC0405AD880567CC1B9FCDBE', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:11,541 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2492554755218715776
+2494714058617288576
+2498379800319259904
+2500758795589045760
+2504251948325778048
+2504412300929670912
+2505260642869523584
+2505262640029957120
+2506688259934697600
+2506929224779645312
+2509748372592830976
+2523389390588264576
+2524042981531959808
+2524066659687427200
+2525906585021463936
+                ...
+2597649031539175808
+2598468923616032128
+2598706555566435840
+2598825096663968256
+2599507652866801792
+2600180622702402176
+2600270198539887360
+2600677640613185792
+2601031472903300480
+2601345452192329856
+2602240699470463616
+2602883295297959680
+2604647629207921408
+2604917868550182400
+2605213126077698944
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a2d60bb8-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='AD4ABAC1ACBCD49052CA0042DFC27215', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:12,181 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2605413129819082624
+2606837551428578432
+2607415649730880896
+2607500453860804608
+2607798249712967936
+2607894865002196736
+2608005743878333056
+2608047078642848000
+2609734588473603328
+2610238100375076864
+2611343212639973760
+2612143176069126400
+2612579476026748416
+2613579305758477440
+2613784570834779520
+                ...
+2624064076841529984
+2624298272818617600
+2624559063232680064
+2625312542230546176
+2625467156758248576
+2625892976995396864
+2626239224374436864
+2626386107960486144
+2626579450208472192
+2626979711095970304
+2627389412321272320
+2628312899009589632
+2629363516733173248
+2631841717154315136
+2632253999654946432
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a358d049-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='E5FBBC93C87C979AA34154D67DB3F1F4', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:12,868 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2632322233800272384
+2634819052907963776
+2635612041310168192
+2635936775198747392
+2637513715389809664
+2637968054210767104
+2638548905587491072
+2639770772243432576
+2640196111444763264
+2641717698098314112
+2642109884448233856
+2648851810575876608
+2649601372563594368
+2650063712907499520
+2650801042828762624
+                ...
+2673113290556877696
+2673385900721915392
+2674024339019551104
+2674090176573758080
+2674125047413476096
+2674446276606600064
+2674451636725815040
+2674816610162304640
+2674908762980663296
+2675107151815245440
+2675378696827022336
+2675677046730348032
+2676351631473719168
+2676885925405425408
+2676977837705574272
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a3bc741a-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='3103247E298131D6110AA92556F3CEE5', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:13,596 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2677440457222890496
+2677779892782981248
+2677790784820085248
+2678679224574883072
+2679906245192324480
+2680200501991309312
+2680246956358022400
+2680277124207763712
+2684209252667410304
+2684890198257090944
+2685156623668585472
+2685169749088557312
+2685172497867639680
+2685204864741275904
+2685215237087455488
+                ...
+4964826273980067840
+4965312979673539968
+4966072879648455296
+4968213658850245120
+4968236473716796928
+4968857976960921472
+4970377295873093504
+4970606127433217792
+4971506867974385152
+4982636811865449600
+4984683866295154176
+4985330550930247040
+4985462522389187968
+4987399866173213056
+4987473666594871808
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a424d2db-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='D42234D2B9E4B7FDA74FC3C6FDB779AA', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:14,524 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+4988813936909469696
+4989347376144137728
+4991515540058723328
+4991720908214454912
+4992022694091964288
+4992166352157987456
+4992224557554793856
+4995005596123198720
+4995508622692727296
+4995519793903300608
+4995971555743630720
+4996150462605914752
+4997655698319046400
+4998348596803367808
+4998386048918223744
+                ...
+5022704016310154368
+5022839389383166848
+5023411479026654464
+5026469736260014720
+5027168613338582528
+5027197750397208192
+5027215651820431744
+5027219126450830464
+5027695107609129856
+5030660804002647552
+5033502835401849088
+5035747350951188096
+5038519352908251136
+5039163288764953856
+5040879076659912192
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a4940f6c-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='7D28E3411D72B6DE726A2045B2F86ACD', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:15,214 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+5041282120686656000
+2440577061002384256
+2440862075032245888
+2441904412055388928
+2443233481094906624
+2443632500736622080
+2444021762212916608
+2444218299916170752
+2444440023308018048
+2445401133909353216
+2447304598991419008
+2447372425114919552
+2448419155888961152
+2448567181937886592
+2448970393468152832
+                ...
+2465755228738782592
+2466074460772392704
+2466769214682491264
+2468058533800757376
+2470287209510963584
+2470814665853871104
+2471914860380700544
+2471987844760806528
+2472608038038652288
+2473992490680712320
+2474074992708923136
+2476338745415102976
+2477122078730374784
+2478159467951513984
+2478841341254655104
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a52245ad-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='B06DD2C7469B60B2410A668467E23145', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:28:15,817 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2485205829951911424
+2485826362531998464
+2487142276087185536
+2487209342001451136
+2487581320532662528
+2489056250953295616
+2489211002919484544
+2489320747923835264
+2489887477448414592
+2492847053513122304
+2493284178104221440
+2494242131905366400
+2495330850279889280
+2495596725935394944
+2496472108990237184
+                ...
+2545690239474799744
+2594126780399404288
+2595216155903964032
+2595401427908591616
+2595721003539838592
+2597034026582427776
+2597266848169569664
+2597330344965723776
+2597791693172681088
+2598513591275533440
+2598984182252400000
+2599050462188333824
+2599088532777950848
+2599724192233055232
+2600150390427880576
+Length = 50 rows. Error: Error 500:
+The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+
+Cannot process request: 'https://gea.esac.esa.int/data-server/data' (req: Reqid: anonymous-a58af28e-d212-11f1-b333-005056a04b55, retrieval access: DIRECT, retrieval type: EPOCH_PHOTOMETRY, compression: null), for user: UwsJobOwner{id='anonymous', name='null', mail='null', authUsername='null', authGroups=[], pseudo='anonymous', session='F39877716BFDB8DEFBB99EFCA45FFA28', ip='137.205.63.228', roles=0, parameters=Owner parameters: 6},  due to: The 'INDIVIDUAL' data structure has been deprecated - use 'DATAMODEL_STANDARD' instead
+2026-10-27 14:29:13,091 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:29:13,091 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:29:13,092 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:29:13,092 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:29:17,300 | Gaia_DR4 | INFO | Retrieved 5000 source IDs. Fetching epoch photometry...
+2026-10-27 14:41:23,357 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:41:23,357 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:41:23,357 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:41:23,357 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:41:35,604 | Gaia_DR4 | INFO | Retrieved 5000 source IDs. Fetching epoch photometry...
+2026-10-27 14:52:30,498 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:52:30,498 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:52:30,498 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:52:30,499 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:52:37,336 | Gaia_DR4 | INFO | Retrieved 50 source IDs. Fetching epoch photometry...
+2026-10-27 14:52:38,036 | Gaia_DR4 | INFO | Batch result type: <class 'dict'>
+2026-10-27 14:53:31,212 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:53:31,212 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:53:31,218 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:53:31,218 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:53:40,396 | Gaia_DR4 | INFO | Retrieved 50 source IDs. Fetching epoch photometry...
+2026-10-27 14:53:50,264 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305916852587230720
+2307688745640433664
+2308489911659344512
+2308536984500532992
+2309382650676803968
+2309403605822303616
+                ...
+2342902499602285056
+2343993726235966080
+2344144157464979200
+2344652922112167808
+2346487590405919616
+2347814705236328960
+2348001274319967232
+Length = 50 rows. Error: 'data'
+2026-10-27 14:53:50,265 | Gaia_DR4 | WARNING | No epoch photometry data retrieved.
+2026-10-27 14:53:50,265 | Gaia_DR4 | INFO | Starting Gaia variable target query...
+2026-10-27 14:53:50,266 | Gaia_DR4 | INFO | Executing variable target query...
+2026-10-27 14:55:24,367 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:55:24,367 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:55:24,368 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:55:24,369 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:55:34,068 | Gaia_DR4 | INFO | Retrieved 50 source IDs. Fetching epoch photometry...
+2026-10-27 14:55:34,837 | Gaia_DR4 | INFO | Batch result: {}
+2026-10-27 14:55:34,840 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for batch:      source_id     
+-------------------
+2305932142670812288
+2306294427456457600
+2308561757872122880
+2309027542780851200
+2309322826077294080
+2310057299844729600
+2310527104842585344
+2311872730980989440
+2313802549981674368
+2313815327508939904
+2314863372544152320
+2319981697955034752
+2320701848007018112
+2321564827196238336
+2321859496312149376
+2322946427980168320
+2323118540205374592
+2323555939674402304
+2323830577063401344
+2324576252105147904
+2326803347267269376
+2328093727241299840
+2330468500558506880
+2331022134727919616
+2331227434164758656
+2331468403304717312
+2331642431084209920
+2332096430602333184
+2332460918707271936
+2332532279588424704
+2333660172362369152
+2333938314442523136
+2333966764305743488
+2334060944349517824
+2334333829391129728
+2334819302430009088
+2334924992985350912
+2335912388786342016
+2338576054488589440
+2338865500924957952
+2339138660844361728
+2339346060520492416
+2342907653561101312
+2342907997158890240
+2343191774237543808
+2343818079253289344
+2344023142467524224
+2344484593753509376
+2344578224040930688
+2344710234155675520. Error: 'data'
+2026-10-27 14:55:34,840 | Gaia_DR4 | WARNING | No epoch photometry data retrieved.
+2026-10-27 14:55:34,841 | Gaia_DR4 | INFO | Starting Gaia variable target query...
+2026-10-27 14:55:34,841 | Gaia_DR4 | INFO | Executing variable target query...
+2026-10-27 14:57:03,910 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:57:03,910 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:57:03,911 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:57:03,911 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:57:56,238 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 14:57:56,239 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 14:57:56,239 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 14:57:56,240 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 14:58:09,490 | Gaia_DR4 | INFO | Retrieved 10 source IDs. Fetching epoch photometry...
+2026-10-27 14:58:09,805 | Gaia_DR4 | WARNING | No data returned for batch:      source_id     
+-------------------
+2305843249732001152
+2305844594057403264
+2305845178172980736
+2305845861072125440
+2305847926952056192
+2305851255551067776
+2305852320702950912
+2305853317135367168
+2305856065914471552
+2305858196218252928
+2026-10-27 14:58:09,806 | Gaia_DR4 | WARNING | No epoch photometry data retrieved.
+2026-10-27 14:58:09,806 | Gaia_DR4 | INFO | Starting Gaia variable target query...
+2026-10-27 14:58:09,806 | Gaia_DR4 | INFO | Executing variable target query...
+2026-10-27 15:03:05,054 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 15:03:05,054 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 15:03:05,055 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 15:03:05,055 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 15:03:30,435 | Gaia_DR4 | INFO | Retrieved 10 source IDs. Fetching epoch photometry...
+2026-10-27 15:03:33,091 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305844319179496192. Error: Error 500:
+null
+2026-10-27 15:03:35,791 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305844697135931520. Error: Error 500:
+null
+2026-10-27 15:03:37,966 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305847067958584832. Error: Error 500:
+null
+2026-10-27 15:03:42,442 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305847957016739968. Error: Error 500:
+null
+2026-10-27 15:03:45,277 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305850125975304960. Error: Error 500:
+null
+2026-10-27 15:03:48,549 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305850400853208832. Error: Error 500:
+null
+2026-10-27 15:03:51,217 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305851947041427328. Error: Error 500:
+null
+2026-10-27 15:03:55,373 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305853214056147200. Error: Error 500:
+null
+2026-10-27 15:03:57,790 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305854008626302208. Error: Error 500:
+null
+2026-10-27 15:04:02,638 | Gaia_DR4 | ERROR | Failed to fetch epoch photometry for source_id: 2305855447439170176. Error: Error 500:
+null
+2026-10-27 15:04:02,639 | Gaia_DR4 | WARNING | No epoch photometry data retrieved.
+2026-10-27 15:04:02,644 | Gaia_DR4 | INFO | Starting Gaia variable target query...
+2026-10-27 15:04:02,645 | Gaia_DR4 | INFO | Executing variable target query...
+2026-10-27 16:38:28,395 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 16:38:28,396 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 16:38:28,399 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 16:38:28,402 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 16:38:31,795 | Gaia_DR4 | INFO | Retrieved 10 source IDs. Fetching epoch photometry...
+2026-10-27 16:39:04,504 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 16:39:04,505 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 16:39:04,505 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 16:39:04,505 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 16:39:07,155 | Gaia_DR4 | INFO | Retrieved 10 source IDs. Fetching epoch photometry...
+2026-10-27 16:39:59,117 | Gaia_DR4 | INFO | Saved 369 light-curve rows to /home/physics/phugxg/GaiaDR4_Sim/data/gaia_photometry_lightcurves.parquet
+2026-10-27 16:39:59,117 | Gaia_DR4 | INFO | Saved 10 sources to /home/physics/phugxg/GaiaDR4_Sim/data/gaia_photometry_sources.parquet
+2026-10-27 16:39:59,118 | Gaia_DR4 | INFO | Starting Gaia variable target query...
+2026-10-27 16:39:59,119 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 16:40:02,998 | Gaia_DR4 | INFO | Retrieved 5000 variable source IDs. Fetching epoch photometry...
+2026-10-27 16:48:34,733 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 16:48:34,733 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 16:48:34,733 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 16:48:34,734 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 16:48:38,301 | Gaia_DR4 | INFO | Retrieved 500 source IDs. Fetching epoch photometry...
+2026-10-27 16:50:21,617 | Gaia_DR4 | INFO | Starting Gaia DR4 process with stages: ['query']
+2026-10-27 16:50:21,617 | Gaia_DR4 | INFO | Starting Gaia query stage...
+2026-10-27 16:50:21,621 | Gaia_DR4 | INFO | Starting Gaia query...
+2026-10-27 16:50:21,622 | Gaia_DR4 | INFO | Executing query...
+2026-10-27 16:50:24,969 | Gaia_DR4 | INFO | Retrieved 500 source IDs. Fetching epoch photometry...
