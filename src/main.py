@@ -1,6 +1,5 @@
 from logger import Gaia_DR4_logger
 from gaia_query import GaiaQuery
-from simulation_run import SimulationRun
 from plotting import SimulationPlotter
 from pathlib import Path
 import argparse
@@ -15,7 +14,7 @@ def arg_parse() -> argparse.Namespace:
 
 if __name__ == "__main__":
     args = arg_parse()
-    log_file = Path(__file__).resolve().parent.parent / 'logs' / 'gaia_dr4.log'
+    log_file = Path(__file__).resolve().parent.parent / 'src/logs' / 'gaia_dr4.log'
     logger_setup = Gaia_DR4_logger(stage_name="Gaia_DR4", log_file=log_file)
     logger = logger_setup.setup_logger()
 
@@ -26,7 +25,8 @@ if __name__ == "__main__":
         gaia_query = GaiaQuery(gaia_logger=logger)
         gaia_query.full_query_csv()
         gaia_query.vari_target_query_csv()
-        gaia_query.labelled_query_csv()
+        gaia_query.labelled_query()
+        gaia_query.eb_labelled_query()
         logger.info("Gaia query stage completed.")
 
     if "sim" in args.stages:

@@ -9,7 +9,7 @@ import pandas as pd
 class GaiaQuery:
     def __init__(self, gaia_logger: logging.Logger):
         self.logger = gaia_logger
-        DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+        DATA_DIR = Path(__file__).resolve().parent.parent / "src/data"
         BATCH_SIZE = 50       
         MAX_RETRIES = 3
         RETRY_DELAY = 5
@@ -77,7 +77,6 @@ class GaiaQuery:
         self.logger.info(f"Saved {len(lc)} light-curve rows to {lc_path}")
         self.logger.info(f"Saved {len(meta)} sources to {meta_path}")
 
-
     def full_query_csv(self) -> None:
         """Small test sample: any sources with epoch photometry."""
         self.logger.info("Starting Gaia query...")
@@ -111,8 +110,31 @@ class GaiaQuery:
         lc = self._fetch_epoch_photometry(sources["source_id"].tolist(),
                                           desc="Fetching variable target epoch photometry")
         self._save(lc, sources, "gaia_vari_target")
+
+    def eb_labelled_query(self, n: int = 500, min_rank: float = 0.5) -> None:
+        """Gaia DR3 eclipsing binary candidates with epoch photometry."""
+        self.logger.info("Starting Gaia eclipsing binary query...")
+        labels = self._run_adql(f"""
+            SELECT TOP {int(n)}
+                eb.source_id, eb.global_ranking, eb.frequency,
+                eb.model_type, eb.num_model_parameters, eb.reduced_chi2,
+                eb.derived_primary_ecl_depth, eb.derived_secondary_ecl_depth,
+                eb.derived_primary_ecl_duration, eb.derived_secondary_ecl_duration,
+                g.phot_g_mean_mag, g.phot_bp_mean_mag, g.phot_rp_mean_mag,
+                g.ra, g.dec
+            FROM gaiadr3.vari_eclipsing_binary AS eb
+            JOIN gaiadr3.gaia_source AS g USING (source_id)
+            WHERE eb.global_ranking > {float(min_rank)}
+            AND g.random_index < 50000000
+        """)
+        labels["period"] = 1.0 / labels["frequency"]
+        labels["label"] = "ECL"
+        self.logger.info(f"Retrieved {len(labels)} EB sources. Fetching epoch photometry...")
+        lc = self._fetch_epoch_photometry(labels["source_id"].tolist(),
+                                        desc="Fetching EB epoch photometry")
+        self._save(lc, labels, "gaia_eb")
  
-    def labelled_query(self, n: int = 5000, min_score: float = 0.8) -> None:
+    def labelled_query(self, n: int = 500, min_score: float = 0.8) -> None:
         """Classified variables (labels for ML) with their epoch photometry."""
         self.logger.info("Starting Gaia labelled variable query...")
         labels = self._run_adql(f"""
